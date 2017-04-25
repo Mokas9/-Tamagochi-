@@ -1,0 +1,20 @@
+d:\Проекты по вижуал студио\Tamagochi\Tamagochi\bin\Debug\Tamagochi.exe.config
+d:\Проекты по вижуал студио\Tamagochi\Tamagochi\bin\Debug\Tamagochi.exe
+d:\Проекты по вижуал студио\Tamagochi\Tamagochi\bin\Debug\Tamagochi.pdb
+d:\Проекты по вижуал студио\Tamagochi\Tamagochi\obj\Debug\Tamagochi.csprojResolveAssemblyReference.cache
+d:\Проекты по вижуал студио\Tamagochi\Tamagochi\obj\Debug\Tamagochi.Form1.resources
+d:\Проекты по вижуал студио\Tamagochi\Tamagochi\obj\Debug\Tamagochi.Properties.Resources.resources
+d:\Проекты по вижуал студио\Tamagochi\Tamagochi\obj\Debug\Tamagochi.Дом.resources
+d:\Проекты по вижуал студио\Tamagochi\Tamagochi\obj\Debug\Tamagochi.csproj.GenerateResource.Cache
+d:\Проекты по вижуал студио\Tamagochi\Tamagochi\obj\Debug\Tamagochi.exe
+d:\Проекты по вижуал студио\Tamagochi\Tamagochi\obj\Debug\Tamagochi.pdb
+D:\!БИБЛИОТЕКА\МГВРК\3 КУРС\КПиЯП\Проекты С#\[Tamagochi]\Tamagochi\bin\Debug\Tamagochi.exe.config
+D:\!БИБЛИОТЕКА\МГВРК\3 КУРС\КПиЯП\Проекты С#\[Tamagochi]\Tamagochi\obj\Debug\Tamagochi.exe
+D:\!БИБЛИОТЕКА\МГВРК\3 КУРС\КПиЯП\Проекты С#\[Tamagochi]\Tamagochi\obj\Debug\Tamagochi.pdb
+D:\!БИБЛИОТЕКА\МГВРК\3 КУРС\КПиЯП\Проекты С#\[Tamagochi]\Tamagochi\bin\Debug\Tamagochi.exe
+D:\!БИБЛИОТЕКА\МГВРК\3 КУРС\КПиЯП\Проекты С#\[Tamagochi]\Tamagochi\bin\Debug\Tamagochi.pdb
+D:\!БИБЛИОТЕКА\МГВРК\3 КУРС\КПиЯП\Проекты С#\[Tamagochi]\Tamagochi\obj\Debug\Tamagochi.csprojResolveAssemblyReference.cache
+D:\!БИБЛИОТЕКА\МГВРК\3 КУРС\КПиЯП\Проекты С#\[Tamagochi]\Tamagochi\obj\Debug\Tamagochi.Form1.resources
+D:\!БИБЛИОТЕКА\МГВРК\3 КУРС\КПиЯП\Проекты С#\[Tamagochi]\Tamagochi\obj\Debug\Tamagochi.Properties.Resources.resources
+D:\!БИБЛИОТЕКА\МГВРК\3 КУРС\КПиЯП\Проекты С#\[Tamagochi]\Tamagochi\obj\Debug\Tamagochi.Дом.resources
+D:\!БИБЛИОТЕКА\МГВРК\3 КУРС\КПиЯП\Проекты С#\[Tamagochi]\Tamagochi\obj\Debug\Tamagochi.csproj.GenerateResource.Cache
